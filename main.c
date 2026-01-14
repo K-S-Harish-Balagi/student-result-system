@@ -71,5 +71,6 @@ int main(int argc, char* argv[]) {
     printReport(out,s, count);
     printStatistics(out, s, count);
 
+    fclose(out);
     return 0;
 }
