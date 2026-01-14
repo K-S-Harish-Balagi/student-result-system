@@ -1,0 +1,15 @@
+
+ID         Name        Sub 1 MIN MAJ TOT GRD GRDP Sub 2 MIN MAJ TOT GRD GRDP Sub 3 MIN MAJ TOT GRD GRDP Sub 4 MIN MAJ TOT GRD GRDP Sub 5 MIN MAJ TOT GRD GRDP  Total   Percent   CGPA
+25mcmi11   harish      cc    30  52  82  A   8    dsp   25  45  70  B+  7    os    28  42  70  B+  7    ai    33  50  83  A   8    cn    30  48  78  A   8     383     76.60    7.60
+25mcmi12   jagdeesh    cc    20  19  39  F   0    dsp   18  60  78  A   8    os    22  45  67  B+  7    ai    30  55  85  A+  9    cn    35  50  85  A+  9     354     70.80    0.00
+25mcmi13   srikara     cc    35  40  75  A   8    dsp   32  50  82  A   8    os    28  45  73  B+  7    ai    36  55  91  O   10   cn    33  50  83  A   8     404     80.80    8.20
+25mcmi14   gurunath    cc    30  35  65  B+  7    dsp   28  48  76  A   8    os    25  40  65  B+  7    ai    34  50  84  A   8    cn    31  45  76  A   8     366     73.20    7.60
+25mcmi15   vibhu       cc    25  38  63  B   6    dsp   22  45  67  B+  7    os    27  42  69  B+  7    ai    30  50  80  A   8    cn    29  48  77  A   8     356     71.20    7.20
+25mcmi16   anirudh     cc    32  40  72  B+  7    dsp   30  50  80  A   8    os    29  45  74  B+  7    ai    35  55  90  O   10   cn    34  50  84  A   8     400     80.00    8.00
+25mcmi17   shreekar    cc    28  37  65  B+  7    dsp   25  44  69  B+  7    os    27  43  70  B+  7    ai    33  50  83  A   8    cn    30  48  78  A   8     365     73.00    7.40
+25mcmi18   navin       cc    30  40  70  B+  7    dsp   28  50  78  A   8    os    26  42  68  B+  7    ai    32  55  87  A+  9    cn    31  50  81  A   8     384     76.80    7.80
+25mcmi19   arjun       cc    29  39  68  B+  7    dsp   27  48  75  A   8    os    28  44  72  B+  7    ai    34  50  84  A   8    cn    33  49  82  A   8     381     76.20    7.60
+
+Class Average: 75.40%
+Highest Percentage: 80.80%
+Lowest Percentage: 70.80%
