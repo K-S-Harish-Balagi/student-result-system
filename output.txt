@@ -13,3 +13,10 @@ ID         Name        Sub 1 MIN MAJ TOT GRD GRDP Sub 2 MIN MAJ TOT GRD GRDP Sub
 Class Average: 75.40%
 Highest Percentage: 80.80%
 Lowest Percentage: 70.80%
+number of students for each grade per subject 
+Sub  O   A+  A   B+  B   C   D   F  
+cc   0   0   2   5   1   0   0   1 
+dsp  0   0   6   3   0   0   0   0 
+os   0   0   0   9   0   0   0   0 
+ai   2   2   5   0   0   0   0   0 
+cn   0   1   8   0   0   0   0   0 

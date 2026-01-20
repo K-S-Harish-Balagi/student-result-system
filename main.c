@@ -3,6 +3,7 @@
 #include "errorhandler.h"
 #include "student.h"
 #include "validate.h"
+#include "display.h"
 
 #define MAX 100
 
@@ -70,6 +71,7 @@ int main(int argc, char* argv[]) {
 
     printReport(out,s, count);
     printStatistics(out, s, count);
+    printGradeList(out, s, count);
 
     fclose(out);
     return 0;

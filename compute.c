@@ -4,6 +4,8 @@
 
 #include "student.h"
 
+
+
 static void assignSubjectGrade(Subject* sub) {
     int t = sub->total;
 
@@ -51,4 +53,26 @@ void computeResult(Student* s) {
         s->cgpa = totalGP / (float)SUBJECTS;
     else
         s->cgpa = 0.0;
+}
+
+
+void SubjectGradecount(Subject* sub, int gradecount[][GRADES], int subjectno) {
+
+    if (sub->gradePoint == 10) {
+        gradecount[subjectno][O]++;
+    } else if (sub->gradePoint == 9) {
+        gradecount[subjectno][A_Plus]++;
+    } else if (sub->gradePoint == 8) {
+        gradecount[subjectno][A]++;
+    } else if (sub->gradePoint == 7) {
+        gradecount[subjectno][B_Plus]++;
+    } else if (sub->gradePoint == 6) {
+        gradecount[subjectno][B]++;
+    } else if (sub->gradePoint == 5) {
+        gradecount[subjectno][C]++;
+    } else if (sub->gradePoint == 4) {
+        gradecount[subjectno][D]++;
+    } else {
+        gradecount[subjectno][F]++;
+    }
 }

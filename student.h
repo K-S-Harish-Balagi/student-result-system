@@ -2,6 +2,7 @@
 #define STUDENT_H
 
 #define SUBJECTS 5
+#define GRADES 8
 #include <stdio.h>
 
 typedef struct {
@@ -22,7 +23,16 @@ typedef struct {
     float cgpa;
 } Student;
 
-void printReport(FILE* fp, Student s[], int n);
-void printStatistics(FILE* fp, Student s[], int n);
+typedef enum{
+    O,
+    A_Plus,
+    A,
+    B_Plus,
+    B,
+    C,
+    D,
+    F,
+} Grades;
+
 
 #endif
