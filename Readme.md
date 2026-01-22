@@ -12,6 +12,7 @@ A C program to process student results for 5 subjects:
 - Calculation of total, percentage, grade, and CGPA
 - Display tabular report of students
 - Compute class statistics (average, highest, lowest)
+- Subjectwise number of students for each grade
 - Optional skipping of invalid records
 
 ## Module Description
